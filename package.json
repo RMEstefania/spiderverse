@@ -1,0 +1,22 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RMEstefania/spiderverse.git"
+  },
+  "author": "Estefania Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RMEstefania/spiderverse/issues"
+  },
+  "homepage": "https://github.com/RMEstefania/spiderverse#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
